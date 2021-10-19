@@ -1,0 +1,100 @@
+Course Computing = new Course("BT1CTG1", "BScComputing");
+Course Computing = new Course("BB1BMI1", "Bsc Business Management and Information Technology");
+Student Louie = new Student("Louie", 22134146);
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Information Technology
+
+Louie.print();
+ Student ID: 22134146 Name: Louie
+Louie.enrol(Computing);
+Louie.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Information Technology
+
+Course Computing = new Course("BB1BMI1", "BSc Business Management and Information Technology");
+Student Louie = new Student("Louie", 22134146);
+Module CO452 = new Module("CO452", "Programing Concepts");
+CO452.getCredit()
+    returned int 0
+Louie.enrol(Computing);
+CO452.setCredit(15);
+CO452.print();
+ Course Code: CO452: Programing Concepts
+
+Student Louie = new Student("Louie", 22134146);
+Course Computing = new Course("BB1BMI1", "Bsc Business Management and Infromation Technology");
+Module CO452 = new Module("CO452", "Programing Concepts");
+Louie.enrol(Computing);
+CO452.getCredit()
+    returned int 0
+CO452.setCredit(15);
+CO452.print();
+ Course Code: CO452: Programing Concepts
+Credit Score15
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Infromation Technology
+
+CO452.getTitle()
+    returned String "Programing Concepts"
+CO452.getCode()
+    returned String "CO452"
+Student Louie = new Student("Louie", 22134146);
+Course Computing = new Course("BB1BMI1", "Bsc Business Management and Information Technology");
+Module CO452 = new Module("CO452", "Prgraming Concepts");
+Louie.enrol(Computing);
+Computing.PrintModule();
+ Course Code: BB1BMI1: Bsc Business Management and Information Technology
+    Exception occurred.
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Information Technology
+
+CO452.print();
+ Course Code: CO452: Prgraming Concepts
+Credit Score0
+Student Louie = new Student("Louie", 22134146);
+Course Computing = new Course("BB1BMI1", "Bsc Business Management and Information Technology");
+Module CO452 = new Module("CO452", "Programing Concepts");
+Louie.enrol(Computing);
+Computing.enrol(CO452);
+Computing.PrintModule();
+ Course Code: BB1BMI1: Bsc Business Management and Information Technology
+Module: Module@3e4e9e96
+Student Louie = new Student("Louie", 22134146);
+Course Computing = new Course("BB1BMI1", "Bsc Business Management and Information technology");
+Module CO452 = new Module("Co452", "Programing Concepts");
+Louie.enrol(Computing);
+Computing.enrol(CO452);
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Information technology
+ Course Code: Co452: Programing Concepts
+Credit Score0
+
+CO452.setCredit(15);
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BB1BMI1: Bsc Business Management and Information technology
+ Course Code: Co452: Programing Concepts
+Credit Score15
+
