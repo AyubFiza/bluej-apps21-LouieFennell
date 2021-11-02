@@ -1,0 +1,192 @@
+Student Louie = new Student();
+Course BMIT = new Course();
+Student Louie = new Student();
+Course BMIT = new Course();
+Student Louie = new Student();
+Course BMIT = new Course();
+BMIT.createModules();
+Louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+    Exception occurred.
+ Student ID: 22134146, Louie
+Louie.enrol(BMIT);
+Louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22134146, Louie
+
+ Course BB1BMI1: BSc Business Management and Information Technology
+
+ CO452: 	Programing Concepts	  15 credits
+ CO452: 	Web Design	  15 credits
+ CO452: 	Computer Architechture	  15 credits
+ CO452: 	Digi Techs	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ CO452: 	Programing Concepts	  0	14F
+
+ CO452: 	Web Design	  0	14F
+
+ CO452: 	Computer Architechture	  0	14F
+
+ CO452: 	Digi Techs	  0	14F
+
+
+ Final Course Grade = F
+Louie.awardTestMarks();
+Louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22134146, Louie
+
+ Course BB1BMI1: BSc Business Management and Information Technology
+
+ CO452: 	Programing Concepts	  15 credits
+ CO452: 	Web Design	  15 credits
+ CO452: 	Computer Architechture	  15 credits
+ CO452: 	Digi Techs	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ CO452: 	Programing Concepts	  0	14F
+
+ CO452: 	Web Design	  0	14F
+
+ CO452: 	Computer Architechture	  0	14F
+
+ CO452: 	Digi Techs	  0	14F
+
+ CO452: 	Programing Concepts	  15	90A
+
+ CO452: 	Web Design	  15	90A
+
+ CO452: 	Computer Architechture	  15	90A
+
+ CO452: 	Digi Techs	  15	90A
+
+
+ No Final Course Grade Yet!
+Student Louie = new Student();
+Course BMIT = new Course();
+Louie.enrol(BMIT);
+BMIT.createModules();
+Louie.awardTestMarks();
+Louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22134146, Louie
+
+ Course BB1BMI1: BSc Business Management and Information Technology
+
+ CO452: 	Programing Concepts	  15 credits
+ CO452: 	Web Design	  15 credits
+ CO452: 	Computer Architechture	  15 credits
+ CO452: 	Digi Techs	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ CO452: 	Programing Concepts	  15	86A
+
+ CO452: 	Web Design	  0	4F
+
+ CO452: 	Computer Architechture	  15	92A
+
+ CO452: 	Digi Techs	  0	26F
+
+ CO452: 	Programing Concepts	  15	67B
+
+ CO452: 	Web Design	  0	4F
+
+ CO452: 	Computer Architechture	  15	44D
+
+ CO452: 	Digi Techs	  15	95A
+
+
+ No Final Course Grade Yet!
+Student louie = new Student();
+Course bmit = new Course();
+louie.enrol(bmit);
+louie.awardTestMarks();
+louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22134146, Louie
+
+ Course BB1BMI1: BSc Business Management and Information Technology
+
+ CO452: 	Programing Concepts	  15 credits
+ CO452: 	Web Design	  15 credits
+ CO452: 	Computer Architechture	  15 credits
+ CO452: 	Digi Techs	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ CO452: 	Programing Concepts	  15	68B
+
+ CO452: 	Web Design	  0	1F
+
+ CO452: 	Computer Architechture	  0	12F
+
+ CO452: 	Digi Techs	  15	45D
+
+ CO452: 	Programing Concepts	  15	100A
+
+ CO452: 	Web Design	  0	23F
+
+ CO452: 	Computer Architechture	  15	49D
+
+ CO452: 	Digi Techs	  15	100A
+
+
+ Final Course Grade = A
+Student louie = new Student();
+Course bmit = new Course();
+louie.enrol(bmit);
+louie.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22134146, Louie
+
+ Course BB1BMI1: BSc Business Management and Information Technology
+
+ CO452: 	Programing Concepts	  15 credits
+ CO452: 	Web Design	  15 credits
+ CO452: 	Computer Architechture	  15 credits
+ CO452: 	Digi Techs	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ CO452: 	Programing Concepts	  15	44D
+
+ CO452: 	Web Design	  0	30F
+
+ CO452: 	Computer Architechture	  0	28F
+
+ CO452: 	Digi Techs	  15	67B
+
+
+ Final Course Grade = D
