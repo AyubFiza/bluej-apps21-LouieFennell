@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class ModuleMark here.
+ * this will test and set marks for the module manually
  *
  * @author Derek Peacock and Nicholas Day
  * Modified by Louie Fennell
