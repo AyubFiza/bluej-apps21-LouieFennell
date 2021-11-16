@@ -1,0 +1,70 @@
+StockList stockLis1 = new StockList();
+StockDemo stockDem1 = new StockDemo(stockLis1);
+stockDem1.runDemo();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 102: GTX 1050 Ti stock level: 0
+ ID 103: GTX 1080 stock level: 0
+ ID 104: GTX 1660 SUPER stock level: 0
+ ID 105: RTX 2070 stock level: 0
+ ID 106: RTX 2080 Ti stock level: 0
+ ID 107: RTX 3060 stock level: 0
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 0
+ ID 110: RTX 3090 Ti stock level: 0
+
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 67
+ ID 102: GTX 1050 Ti stock level: 34
+ ID 103: GTX 1080 stock level: 53
+ ID 104: GTX 1660 SUPER stock level: 35
+ ID 105: RTX 2070 stock level: 12
+ ID 106: RTX 2080 Ti stock level: 45
+ ID 107: RTX 3060 stock level: 9
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 7
+ ID 110: RTX 3090 Ti stock level: 2
+
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 102: GTX 1050 Ti stock level: 31
+ ID 103: GTX 1080 stock level: 48
+ ID 104: GTX 1660 SUPER stock level: 32
+ ID 105: RTX 2070 stock level: 11
+ ID 106: RTX 2080 Ti stock level: 41
+ ID 107: RTX 3060 stock level: 6
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 5
+ ID 110: RTX 3090 Ti stock level: 1
+
+StockList MyShop = new StockList();
+Product Rtx = new Product(111, "Rtx 970");
+Rtx.decreaseQuantity(6);
+Rtx.print();
+ ID 111: Rtx 970 stock level: 0
+Rtx.increaseQuantity(66);
+Rtx.print();
+ ID 111: Rtx 970 stock level: 66
+Rtx.decreaseQuantity(37);
+Rtx.print();
+ ID 111: Rtx 970 stock level: 29
+Product Gtx = new Product(112, "Gtx 1060");
+MyShop.add(Gtx);
+MyShop.add(Rtx);
+MyShop.print();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 112: Gtx 1060 stock level: 0
+ ID 111: Rtx 970 stock level: 29
+

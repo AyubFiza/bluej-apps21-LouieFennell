@@ -1,0 +1,96 @@
+StockList MyShop2 = new StockList();
+StockDemo NewTenStock = new StockDemo(MyShop2);
+MyShop2.print();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 102: GTX 1050 Ti stock level: 0
+ ID 103: GTX 1080 stock level: 0
+ ID 104: GTX 1660 SUPER stock level: 0
+ ID 105: RTX 2070 stock level: 0
+ ID 106: RTX 2080 Ti stock level: 0
+ ID 107: RTX 3060 stock level: 0
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 0
+ ID 110: RTX 3090 Ti stock level: 0
+
+NewTenStock.runDemo();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 102: GTX 1050 Ti stock level: 0
+ ID 103: GTX 1080 stock level: 0
+ ID 104: GTX 1660 SUPER stock level: 0
+ ID 105: RTX 2070 stock level: 0
+ ID 106: RTX 2080 Ti stock level: 0
+ ID 107: RTX 3060 stock level: 0
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 0
+ ID 110: RTX 3090 Ti stock level: 0
+
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 67
+ ID 102: GTX 1050 Ti stock level: 34
+ ID 103: GTX 1080 stock level: 53
+ ID 104: GTX 1660 SUPER stock level: 35
+ ID 105: RTX 2070 stock level: 12
+ ID 106: RTX 2080 Ti stock level: 45
+ ID 107: RTX 3060 stock level: 9
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 7
+ ID 110: RTX 3090 Ti stock level: 2
+
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 102: GTX 1050 Ti stock level: 31
+ ID 103: GTX 1080 stock level: 48
+ ID 104: GTX 1660 SUPER stock level: 32
+ ID 105: RTX 2070 stock level: 11
+ ID 106: RTX 2080 Ti stock level: 41
+ ID 107: RTX 3060 stock level: 6
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 5
+ ID 110: RTX 3090 Ti stock level: 1
+
+MyShop2.remove(102)
+    returned Object <object reference>
+MyShop2.print();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+ ID 101: GTX 1050 Ti stock level: 0
+ ID 103: GTX 1080 stock level: 48
+ ID 104: GTX 1660 SUPER stock level: 32
+ ID 105: RTX 2070 stock level: 11
+ ID 106: RTX 2080 Ti stock level: 41
+ ID 107: RTX 3060 stock level: 6
+ ID 108: RTX 3080 stock level: 0
+ ID 109: RTX 3090 stock level: 5
+ ID 110: RTX 3090 Ti stock level: 1
+
+MyShop2.lowStockList();
+
+ Louie's Stock of Graphics cards List
+ ====================================
+
+
+ ID 101: GTX 1050 Ti stock level: 10
+ ID 103: GTX 1080 stock level: 48
+ ID 104: GTX 1660 SUPER stock level: 32
+ ID 105: RTX 2070 stock level: 11
+ ID 106: RTX 2080 Ti stock level: 41
+ ID 107: RTX 3060 stock level: 6
+ ID 108: RTX 3080 stock level: 10
+ ID 109: RTX 3090 stock level: 5
+ ID 110: RTX 3090 Ti stock level: 11
