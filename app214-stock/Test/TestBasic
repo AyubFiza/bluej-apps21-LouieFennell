@@ -1,0 +1,123 @@
+Program.main({ });
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > print#
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > print
+
+ Louie's Car stock
+ ====================
+
+ ID 101: Audi TT stock level: 0
+ ID 102: BMW M8 GC  stock level: 0
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 0
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+ ID 107: Audi A8 stock level: 0
+ ID 108: Vauxhall Astra Griffin stock level: 0
+ ID 109: Peugeot E-208  stock level: 0
+ ID 110: BMW 220i stock level: 0
+
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > add
+Adding a new Product
+
+Please enter a product id >
+111
+Please enter the product name >
+Your input is blank!
+
+Please enter the product name >jeep
+
+ Louie's Car stock
+ ====================
+
+ ID 101: Audi TT stock level: 0
+ ID 102: BMW M8 GC  stock level: 0
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 0
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+ ID 107: Audi A8 stock level: 0
+ ID 108: Vauxhall Astra Griffin stock level: 0
+ ID 109: Peugeot E-208  stock level: 0
+ ID 110: BMW 220i stock level: 0
+ ID 111: jeep stock level: 0
+
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > remove
+Adding a new Product
+
+Please enter a product id >
+107
+ ID 101: Audi TT stock level: 0
+ ID 102: BMW M8 GC  stock level: 0
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 0
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+
+ Louie's Car stock
+ ====================
+
+ ID 101: Audi TT stock level: 0
+ ID 102: BMW M8 GC  stock level: 0
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 0
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+ ID 108: Vauxhall Astra Griffin stock level: 0
+ ID 109: Peugeot E-208  stock level: 0
+ ID 110: BMW 220i stock level: 0
+ ID 111: jeep stock level: 0
+
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > 
+Your input is blank!
+
+Please enter your choice > quit

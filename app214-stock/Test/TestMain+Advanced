@@ -1,0 +1,199 @@
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > remove
+Adding a new Product
+
+Please enter a product id >
+101
+
+ Louie's Car stock
+ ====================
+
+ ID 102: BMW M8 GC  stock level: 0
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 0
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+ ID 107: Audi A8 stock level: 0
+ ID 108: Vauxhall Astra Griffin stock level: 0
+ ID 109: Peugeot E-208  stock level: 0
+ ID 110: BMW 220i stock level: 0
+
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > 
+Your input is blank!
+
+Please enter your choice > buy
+buy a new Product
+
+Please enter a product id >
+102
+Please an ammount to stock>
+9
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > 
+Your input is blank!
+
+Please enter your choice > buy
+buy a new Product
+
+Please enter a product id >
+104
+Please an ammount to stock>
+7
+ ID 102: BMW M8 GC  stock level: 9
+ ID 103: Audi RS3 stock level: 0
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > 
+Your input is blank!
+
+Please enter your choice > sell
+sell a new Product
+
+Please enter a product id >
+102
+Please an ammount to sell> 
+4
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > 
+Your input is blank!
+
+Please enter your choice > print
+
+ Louie's Car stock
+ ====================
+
+ ID 102: BMW M8 GC  stock level: 5
+ ID 103: Audi RS3 stock level: 0
+ ID 104: Mercedes AMG  stock level: 7
+ ID 105: Range Rover Evoque stock level: 0
+ ID 106: Mercedes A class stock level: 0
+ ID 107: Audi A8 stock level: 0
+ ID 108: Vauxhall Astra Griffin stock level: 0
+ ID 109: Peugeot E-208  stock level: 0
+ ID 110: BMW 220i stock level: 0
+
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > check
+buy a new Product
+
+Please enter a product id >Me
+ ID 104: Mercedes AMG  stock level: 7
+ ID 106: Mercedes A class stock level: 0
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > stock
+
+ Louie's Car stock
+ ====================
+
+
+ ID 102: BMW M8 GC  stock level: 5
+ ID 103: Audi RS3 stock level: 10
+ ID 104: Mercedes AMG  stock level: 7
+ ID 105: Range Rover Evoque stock level: 10
+ ID 106: Mercedes A class stock level: 10
+ ID 107: Audi A8 stock level: 10
+ ID 108: Vauxhall Astra Griffin stock level: 10
+ ID 109: Peugeot E-208  stock level: 10
+ ID 110: BMW 220i stock level: 10
+********************************
+  App21-04: Stock Application 
+      by Louie Fennell
+********************************
+
+    Add:        Add a new product
+    Remove:     Remove an old product
+    Buy:        Buys a product
+    Sell:       Sells a product
+    Check:      Searchs for part of name or product
+    Stock:      Restocks the for part of name or product
+    Print:      Print all products
+    Quit:       Quit the program
+
+Please enter your choice > quit
