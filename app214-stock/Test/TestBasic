@@ -1,7 +1,7 @@
 Program.main({ });
 ********************************
   App21-04: Stock Application 
-      by Louie Fennell
+      by Fiza Ayub
 ********************************
 
     Add:        Add a new product
@@ -12,7 +12,7 @@ Program.main({ });
 Please enter your choice > print#
 ********************************
   App21-04: Stock Application 
-      by Louie Fennell
+      by Fiza Ayub
 ********************************
 
     Add:        Add a new product
@@ -22,7 +22,7 @@ Please enter your choice > print#
 
 Please enter your choice > print
 
- Louie's Car stock
+ Fiza's Car stock
  ====================
 
  ID 101: Audi TT stock level: 0
@@ -38,7 +38,7 @@ Please enter your choice > print
 
 ********************************
   App21-04: Stock Application 
-      by Louie Fennell
+      by Fiza Ayub
 ********************************
 
     Add:        Add a new product
@@ -56,7 +56,7 @@ Your input is blank!
 
 Please enter the product name >jeep
 
- Louie's Car stock
+ Fiza's Car stock
  ====================
 
  ID 101: Audi TT stock level: 0
@@ -73,7 +73,7 @@ Please enter the product name >jeep
 
 ********************************
   App21-04: Stock Application 
-      by Louie Fennell
+      by Fiza Ayub
 ********************************
 
     Add:        Add a new product
@@ -93,7 +93,7 @@ Please enter a product id >
  ID 105: Range Rover Evoque stock level: 0
  ID 106: Mercedes A class stock level: 0
 
- Louie's Car stock
+ Fiza's Car stock
  ====================
 
  ID 101: Audi TT stock level: 0
@@ -109,7 +109,7 @@ Please enter a product id >
 
 ********************************
   App21-04: Stock Application 
-      by Louie Fennell
+      by Fiza Ayub
 ********************************
 
     Add:        Add a new product
